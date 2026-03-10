@@ -18,5 +18,3 @@ Right now I'm working on a stealth startup as CEO in the Vertical space. Additio
 - [AWS - Automated Provisioning for Distributed AI Applications](https://patents.justia.com/patent/11997021)
 - [Tableau - Semantic Models for Visual Analytics](https://patents.justia.com/patent/12067368)
 - [Capital One - Personalized Financing Using Automotive Metadata](https://patents.justia.com/patent/12067616)
-
-**Let's connect**
