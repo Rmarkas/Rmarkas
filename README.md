@@ -14,9 +14,11 @@ Right now I'm working on a stealth startup as CEO in the Vertical space. Additio
 
 **Patents** 
 
-- [AWS - Application creation using multimodal interfaces](https://patents.justia.com/patent/12547380)
-- [AWS - Automated provsioning for dsitributed AI applications](https://patents.justia.com/patent/11997021)
-- [Tableau - Semantic models for visual analytics](https://patents.justia.com/patent/12067368)
-- [Capital One - Personalized financing using automotive metadata](https://patents.justia.com/patent/12067616)
+## Patents
+
+- [AWS - Application Creation Using Multimodal Interfaces](https://patents.justia.com/patent/12547380)
+- [AWS - Automated Provisioning for Distributed AI Applications](https://patents.justia.com/patent/11997021)
+- [Tableau - Semantic Models for Visual Analytics](https://patents.justia.com/patent/12067368)
+- [Capital One - Personalized Financing Using Automotive Metadata](https://patents.justia.com/patent/12067616)
 
 **Let's connect**
