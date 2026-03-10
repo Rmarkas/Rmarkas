@@ -14,7 +14,8 @@ Right now I'm working on a stealth startup as CEO in the Vertical space. Additio
 📚 MS in Data Science (Machine Learning) from SMU · BA in Economics from UT Austin
 
 **Patents** 
-- [AWS - Application creation using multimodal interfaces](https://patents.justia.com/patent/12547380)
+
+- [AWS - Application creation using multimodal interfaces](https://patents.justia.com/patent/12547380)
 - [AWS - Automated provsioning for dsitributed AI applications](https://patents.justia.com/patent/11997021)
 - [Tableau - Semantic models for visual analytics](https://patents.justia.com/patent/12067368)
 - [Capital One - Personalized financing using automotive metadata](https://patents.justia.com/patent/12067616)
