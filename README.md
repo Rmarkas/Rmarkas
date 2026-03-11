@@ -1,6 +1,6 @@
 ## Hi, I'm Ruhaab 👋
 
-I build AI products that turn frontier research into things people actually use — agents, foundation models, RAG systems, and safety tooling.Most of my career has been spent at the intersection of research science and product: shipping 0→1 AI platforms at Google, Amazon (AWS), Apple, and Salesforce.
+I build AI products that turn frontier research into things people actually use — agents, foundation models, RAG systems, and safety tooling. Most of my career has been spent at the intersection of applied AI, research science and product management: shipping 0→1 AI platforms at Google AI, Amazon (AWS AI), Apple (Siri), and Salesforce.
 
 Right now I'm working on a stealth startup as CEO in the Vertical space. Additionaly, I am deep in agentic coding — using tools like OpenAI Codex and Claude Code to ship fast. 300+ PRs in Q1 2026 alone.
 
