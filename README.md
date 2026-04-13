@@ -8,7 +8,7 @@ Right now I'm working on a stealth startup as CEO in the Vertical AI space. Addi
 
 - 🚀 Group Product Manager at Google — leading AI transformation for the AI & Infrastrucure org, and previously leading GTM Products for Generative AI and Agentic AI @ BigQuery
 - ☁️ Head of Product Gen AI services at AWS — built Amazon Bedrock's generative servics AI portfolio: Agents, RAG, Guardrails,  Embeddings models and Speech AI. Authored the original PRFAQ for AWS Agents
-- 🍎 PM for Siri NLU at Apple — designed eval frameworks, built proto-RLHF training pipelines using implicit human feedback signals, and improved Siri music accuracy on new hardware launches such as the HomePod (RIP)
+- 🍎 PM for Siri NLU at Apple — designed eval frameworks, built proto-RLHF training pipelines using implicit human feedback signals, and improved Siri music accuracy on new hardware launches such as the HomePod
 - 🎓 Instructor at Product School — teaching Advanced AI Agents and Introduction to AI for Product Managers
 - 📚 MS in Data Science (Machine Learning) from SMU · BA in Economics from UT Austin
 
